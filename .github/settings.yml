@@ -2,4 +2,4 @@ repository:
   # See https://docs.github.com/en/rest/reference/repos#update-a-repository for all available settings.
   name: javascript-home-test
   description: null
-  topics: squad-core-finance, mission-pipes, product-pipes, environment-sandbox
+  topics: squad-platform-team, mission-platform, product-platform, environment-sandbox
